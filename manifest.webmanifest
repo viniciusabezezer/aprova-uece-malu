@@ -1,0 +1,18 @@
+{
+  "name": "Aprova UECE Malu",
+  "short_name": "Aprova UECE Malu",
+  "description": "Agenda, conteúdos e links da 2ª fase do Vestibular UECE 2027.1 para Juarez, Eduardo e Mateus.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3eee4",
+  "theme_color": "#0c2c22",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
